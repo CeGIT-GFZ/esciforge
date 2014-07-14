@@ -1,5 +1,8 @@
-esciforge
-=========
+#esciforge
+
+Since software already has become an integral part of science, it’s time to integrated software properly into the scientific discourse with published and citable software. esciforge shall become a prototype platform for the publication of scientific software source code with persistent identifiers so that software becomes citable. esciforge will be a prototype only paving the way for further discussions and follow-up prototypes.
+
+We will look at the requirements for software publication, code archives, metadata and persistent identification of software. We want to make software recognized as scientific achievement and want to establish best practices for publishing software, whilst promoting Open Science. Join us.
 
 ## Install
 
