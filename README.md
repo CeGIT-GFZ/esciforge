@@ -34,6 +34,6 @@ $ git clone https://github.com/sciforge/esciforge.git
 
 ### Run esciforge
 ```shell 
-$ source ./Projects/pyvenv/esciforge/bin/activate
+$ source ~/Projects/pyvenv/esciforge/bin/activate
 $ ~/Projects/esciforge/django/manage.py runserver
 ```
