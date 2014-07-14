@@ -12,3 +12,10 @@
 :Django (pip install Django)
 :pyGit (pip install pyGit)
 :svn (pip install svn)
+
+= apache wsgi configuration =
+<code>
+WSGIDaemonProcess esciforge python-path=/var/www/esciforge/django threads=8 processes=1
+WSGIScriptAlias / /var/www/esciforge/django/esciforge/wsgi.py
+WSGIProcessGroup esciforge
+</code>
