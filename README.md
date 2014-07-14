@@ -5,9 +5,9 @@ esciforge
 
 ```shell
 # setup python virtual environment 
-$ pyvenv-3.4 ./Projects/pyvenv/esciforge --without-pip
-$ source ./Projects/pyvenv/esciforge/bin/activate
-$ cd ./Projects/pyvenv/esciforge
+$ pyvenv-3.4 ~/Projects/pyvenv/esciforge --without-pip
+$ source ~/Projects/pyvenv/esciforge/bin/activate
+$ cd ~/Projects/pyvenv/esciforge
 $ mkdir pypioffline
 $ cd pypioffline
 $ wget https://pypi.python.org/packages/source/s/setuptools/setuptools-5.4.tar.gz
