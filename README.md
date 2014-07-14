@@ -4,7 +4,7 @@ esciforge
 ## Install
 
 ```shell
-$ virtual environment 
+# setup python virtual environment 
 $ pyvenv-3.4 ./Projects/pyvenv/esciforge --without-pip
 $ source ./Projects/pyvenv/esciforge/bin/activate
 $ cd ./Projects/pyvenv/esciforge
