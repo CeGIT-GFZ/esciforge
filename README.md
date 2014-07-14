@@ -14,7 +14,6 @@ $ wget https://pypi.python.org/packages/source/s/setuptools/setuptools-5.4.tar.g
 $ tar xvzf setuptools-5.4.tar.gz 
 $ cd setuptools-5.4/
 $ python ez_setup.py
-$ python --version
 $ easy_install pip
 
 # install python packages
@@ -29,5 +28,5 @@ $ git clone https://github.com/sciforge/esciforge.git
 
 # run esciforge
 $ source ./Projects/pyvenv/esciforge/bin/activate
-$ ./Projects/esciforge/django/manage.py runserver
+$ ~/Projects/esciforge/django/manage.py runserver
 ```
